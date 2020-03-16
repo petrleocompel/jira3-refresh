@@ -293,7 +293,7 @@ td.fieldLabelArea {
     padding: 5px 10px !important;
 }
 #issueContent div#details-open td[bgcolor='#f0f0f0'] {
-    background: ;
+    /*background: ;*/
 }
 #issueContent div#details-open #abcd_build_list {
     padding: 0 !important;
