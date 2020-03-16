@@ -9,5 +9,5 @@ A userstyle extension is required, common ones include:
 
 Then:
 
-📦 [Install the usercss](https://raw.githubusercontent.com/petrleocompel/jira3-refresh/jira3-refresh.user.css). It supports automatic updates.
+📦 [Install the usercss](https://raw.githubusercontent.com/petrleocompel/jira3-refresh/master/jira3-refresh.user.css). It supports automatic updates.
 
