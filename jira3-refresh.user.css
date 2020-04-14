@@ -607,6 +607,12 @@ select[multiple] {
     height: calc(7em);
 }
 
+.fieldValueArea input[type='text'],
+.fieldValueArea select,
+.fieldValueArea textarea {
+    width:90%
+}
+
 @media (prefers-reduced-motion: reduce) {
     input[type='text'],
     select,
